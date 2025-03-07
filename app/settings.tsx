@@ -174,11 +174,14 @@ export default function SettingsScreen() {
       <View style={{ marginTop: 30, alignItems: "center" }}>
         <Text style={{ fontSize: 20, fontWeight: "bold" }}>Weather App</Text>
         <Text>© 2024 Weather Inc.</Text>
-        <Text>Version: 1.0</Text>
+        <Text>Thank you for purchasing Weather Time. If you have any issues or feedback, please contact: 1800 123 456.
+            Data provided by Google. Best efforts are taken to ensure accuracy of the data, but no guarantees are made. To view the official data, please visit 
+              the website of Google” .</Text>
+        <Text>Version: 1.1</Text>
         <Text>Last Update: {new Date().toLocaleDateString()}</Text>
         <Text>Build Date: {new Date().toLocaleDateString()}</Text>
         <Text>Developer: Pedro | Santiago | Lucas</Text>
-        <Text>Student Number: ACBI20240102 </Text>
+        <Text>Student Number: ACBI20240102</Text>
       </View>
 
       {/* Buttons */}
