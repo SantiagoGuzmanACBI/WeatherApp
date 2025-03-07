@@ -178,7 +178,7 @@ export default function SettingsScreen() {
         <Text>Last Update: {new Date().toLocaleDateString()}</Text>
         <Text>Build Date: {new Date().toLocaleDateString()}</Text>
         <Text>Developer: Pedro | Santiago | Lucas</Text>
-        <Text>Student Number: ACBI20240565</Text>
+        <Text>Student Number: ACBI20240102 </Text>
       </View>
 
       {/* Buttons */}
